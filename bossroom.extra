@@ -1,0 +1,172 @@
+<models>
+    <model id="0" lightopacity="1" />
+    <model id="1" lightopacity="1" />
+    <model id="2" lightopacity="1" />
+    <model id="3" lightopacity="1" />
+    <model id="4" lightopacity="1" />
+    <model id="5" lightopacity="1" />
+    <model id="6" lightopacity="1" />
+    <model id="7" lightopacity="1" />
+    <model id="8" lightopacity="1" />
+    <model id="9" lightopacity="1" />
+    <model id="10" lightopacity="1" />
+    <model id="11" lightopacity="1" />
+    <model id="12" lightopacity="1" />
+    <model id="13" lightopacity="1" />
+    <model id="14" lightopacity="1" />
+    <model id="15" lightopacity="1" />
+    <model id="16" lightopacity="1" />
+    <model id="17" lightopacity="1" />
+    <model id="18" lightopacity="1" />
+    <model id="19" lightopacity="1" />
+    <model id="20" lightopacity="1" />
+    <model id="21" lightopacity="1" />
+    <model id="22" lightopacity="1" />
+</models>
+<lights>
+    <light id="0" givesshadow="false">
+        <range>1637554511606936700000000000000000.000000</range>
+        <maxlightincrement>0.000000</maxlightincrement>
+        <lightfalloff>0.000000</lightfalloff>
+    </light>
+    <light id="1" givesshadow="false">
+        <range>1637554511606936700000000000000000.000000</range>
+        <maxlightincrement>0.000000</maxlightincrement>
+        <lightfalloff>0.000000</lightfalloff>
+    </light>
+    <light id="2" givesshadow="false">
+        <range>1637554511606936700000000000000000.000000</range>
+        <maxlightincrement>0.000000</maxlightincrement>
+        <lightfalloff>0.000000</lightfalloff>
+    </light>
+    <light id="3" givesshadow="false">
+        <range>1637554511606936700000000000000000.000000</range>
+        <maxlightincrement>0.000000</maxlightincrement>
+        <lightfalloff>0.000000</lightfalloff>
+    </light>
+    <light id="4" givesshadow="false">
+        <range>1637554511606936700000000000000000.000000</range>
+        <maxlightincrement>0.000000</maxlightincrement>
+        <lightfalloff>0.000000</lightfalloff>
+    </light>
+    <light id="5" givesshadow="false">
+        <range>1637554511606936700000000000000000.000000</range>
+        <maxlightincrement>0.000000</maxlightincrement>
+        <lightfalloff>0.000000</lightfalloff>
+    </light>
+    <light id="6" givesshadow="false">
+        <range>1637554511606936700000000000000000.000000</range>
+        <maxlightincrement>0.000000</maxlightincrement>
+        <lightfalloff>0.000000</lightfalloff>
+    </light>
+    <light id="7" givesshadow="false">
+        <range>1637554511606936700000000000000000.000000</range>
+        <maxlightincrement>0.000000</maxlightincrement>
+        <lightfalloff>0.000000</lightfalloff>
+    </light>
+    <light id="8" givesshadow="false">
+        <range>1637554511606936700000000000000000.000000</range>
+        <maxlightincrement>0.000000</maxlightincrement>
+        <lightfalloff>0.000000</lightfalloff>
+    </light>
+    <light id="9" givesshadow="false">
+        <range>1637554511606936700000000000000000.000000</range>
+        <maxlightincrement>0.000000</maxlightincrement>
+        <lightfalloff>0.000000</lightfalloff>
+    </light>
+    <light id="10" givesshadow="false">
+        <range>1637554511606936700000000000000000.000000</range>
+        <maxlightincrement>0.000000</maxlightincrement>
+        <lightfalloff>0.000000</lightfalloff>
+    </light>
+    <light id="11" givesshadow="false">
+        <range>1637554511606936700000000000000000.000000</range>
+        <maxlightincrement>0.000000</maxlightincrement>
+        <lightfalloff>0.000000</lightfalloff>
+    </light>
+    <light id="12" givesshadow="false">
+        <range>1637554511606936700000000000000000.000000</range>
+        <maxlightincrement>0.000000</maxlightincrement>
+        <lightfalloff>0.000000</lightfalloff>
+    </light>
+    <light id="13" givesshadow="false">
+        <range>1637554511606936700000000000000000.000000</range>
+        <maxlightincrement>0.000000</maxlightincrement>
+        <lightfalloff>0.000000</lightfalloff>
+    </light>
+    <light id="14" givesshadow="false">
+        <range>1637554511606936700000000000000000.000000</range>
+        <maxlightincrement>0.000000</maxlightincrement>
+        <lightfalloff>0.000000</lightfalloff>
+    </light>
+    <light id="15" givesshadow="false">
+        <range>1637554511606936700000000000000000.000000</range>
+        <maxlightincrement>0.000000</maxlightincrement>
+        <lightfalloff>0.000000</lightfalloff>
+    </light>
+    <light id="16" givesshadow="false">
+        <range>1637554511606936700000000000000000.000000</range>
+        <maxlightincrement>0.000000</maxlightincrement>
+        <lightfalloff>0.000000</lightfalloff>
+    </light>
+    <light id="17" givesshadow="false">
+        <range>1637554511606936700000000000000000.000000</range>
+        <maxlightincrement>0.000000</maxlightincrement>
+        <lightfalloff>0.000000</lightfalloff>
+    </light>
+    <light id="18" givesshadow="false">
+        <range>1637554511606936700000000000000000.000000</range>
+        <maxlightincrement>0.000000</maxlightincrement>
+        <lightfalloff>0.000000</lightfalloff>
+    </light>
+    <light id="19" givesshadow="false">
+        <range>1637554511606936700000000000000000.000000</range>
+        <maxlightincrement>0.000000</maxlightincrement>
+        <lightfalloff>0.000000</lightfalloff>
+    </light>
+    <light id="20" givesshadow="false">
+        <range>1637554511606936700000000000000000.000000</range>
+        <maxlightincrement>0.000000</maxlightincrement>
+        <lightfalloff>0.000000</lightfalloff>
+    </light>
+    <light id="21" givesshadow="false">
+        <range>1637554511606936700000000000000000.000000</range>
+        <maxlightincrement>0.000000</maxlightincrement>
+        <lightfalloff>0.000000</lightfalloff>
+    </light>
+    <light id="22" givesshadow="false">
+        <range>1637554511606936700000000000000000.000000</range>
+        <maxlightincrement>0.000000</maxlightincrement>
+        <lightfalloff>0.000000</lightfalloff>
+    </light>
+    <light id="23" givesshadow="false">
+        <range>1637554511606936700000000000000000.000000</range>
+        <maxlightincrement>0.000000</maxlightincrement>
+        <lightfalloff>0.000000</lightfalloff>
+    </light>
+    <light id="24" givesshadow="false">
+        <range>1637554511606936700000000000000000.000000</range>
+        <maxlightincrement>0.000000</maxlightincrement>
+        <lightfalloff>0.000000</lightfalloff>
+    </light>
+    <light id="25" givesshadow="false">
+        <range>1637554511606936700000000000000000.000000</range>
+        <maxlightincrement>0.000000</maxlightincrement>
+        <lightfalloff>0.000000</lightfalloff>
+    </light>
+    <light id="26" givesshadow="false">
+        <range>1637554511606936700000000000000000.000000</range>
+        <maxlightincrement>0.000000</maxlightincrement>
+        <lightfalloff>0.000000</lightfalloff>
+    </light>
+    <light id="27" givesshadow="false">
+        <range>1637554511606936700000000000000000.000000</range>
+        <maxlightincrement>0.000000</maxlightincrement>
+        <lightfalloff>0.000000</lightfalloff>
+    </light>
+    <light id="28" givesshadow="false">
+        <range>1637554511606936700000000000000000.000000</range>
+        <maxlightincrement>0.000000</maxlightincrement>
+        <lightfalloff>0.000000</lightfalloff>
+    </light>
+</lights>

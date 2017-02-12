@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="euc-kr" ?>
+<clientinfo>
+	<desc>Ragnarok Online Client Information</desc>
+	<servicetype>america</servicetype>
+	<servertype>primary</servertype>
+	<readfolder>english</readfolder>
+	<connection>
+		<display>Local</display>
+      	<address>127.0.0.1</address>
+      	<port>6900</port>
+      	<version>46</version>
+      	<langtype>1</langtype>
+		<registrationweb>www.ragnarok.com</registrationweb>
+		<loading>
+			<image>loading00.jpg</image>
+			<image>loading01.jpg</image>
+			<image>loading02.jpg</image>
+			<image>loading03.jpg</image>
+			<image>loading04.jpg</image>
+		</loading>
+		<yellow>
+			<admin>2000033</admin>
+		</yellow>
+   	</connection>
+</clientinfo>

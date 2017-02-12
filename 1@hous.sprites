@@ -1,0 +1,6 @@
+<sprites>
+    <sprite x="107.429070" y="6.913895" z="128.775055" action="0" direction="0">
+        <body>data\sprite\인간족\몸통\남\스나이퍼_남</body>
+        <head>data\sprite\인간족\머리통\남\3_남</head>
+    </sprite>
+</sprites>

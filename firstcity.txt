@@ -1,0 +1,9 @@
+texture\prontera_re\prt_city_bot01.bmp
+texture\prontera_re\prt_ch_bot02.bmp
+texture\prontera_re\prt_ch_bot02.bmp
+texture\prontera_re\prt_ch_bot02.bmp
+texture\prontera_re\prt_ch_bot02.bmp
+texture\prontera_re\prt_city_bot04.bmp
+texture\prontera_re\prt_city_g01.bmp
+texture\prontera_re\prt_city_bot07.bmp
+texture\prontera_re\prt_city_bot07.bmp
